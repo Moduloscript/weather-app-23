@@ -1,7 +1,8 @@
 # Weather App
 ![example](/images/example.gif)
 This weather app allows users to search for and view current weather conditions in their location or any city around the world. The app is built using React and retrieves weather data from the OpenWeatherMap API via RapidAPI.
-
+## Here is The Live site
+https://weather-app-23.vercel.app/
 ## Features
 
 - Search for and view current weather conditions in any city
