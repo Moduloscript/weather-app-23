@@ -1,0 +1,26 @@
+.container{
+  max-width: 1080px;
+  margin:20px  auto;
+}
+.enclosure {
+  display: inline-block;
+  width: 200px;
+  border-radius: 40px;
+  padding: 5px;
+  background-color: #e5e5e5;
+  overflow: hidden;
+}
+
+.toggle-button {
+  position: relative;
+  left: 0;
+  transition: left 0.5s;
+  border-radius: 20px;
+  padding: 10px 20px;
+  background-color: #007aff;
+  color: white;
+}
+
+.toggle-button.right {
+  left: calc(30% - 20px);
+}
